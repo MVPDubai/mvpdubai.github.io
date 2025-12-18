@@ -1,0 +1,25 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Site settings
+title: "MVP Software Solutions"
+name: "MVP Software Solutions"
+description: "AI Integration & Custom Software Development"
+url: "https://mvpdubai.github.io"
+baseurl: ""
+
+# Theme settings
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Author
+author:
+  name: "MVP Software Solutions"
+  bio: "Dubai-based software consultancy"
+  location: "Dubai, UAE"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
