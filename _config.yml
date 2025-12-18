@@ -1,28 +1,57 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+baseurl: ''
+url: 'https://mvpss.dev'
+permalink: pretty
+title: 'MVP Software Solutions'
 
-plugins:
-  - jekyll-include-cache
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "32px"
+  desktop_width: "180px"
 
-# Site settings
-title: "MVP Software Solutions"
-name: "MVP Software Solutions"
-description: "AI Integration & Custom Software Development"
-url: "https://mvpdubai.github.io"
-baseurl: ""
+home:
+  limit_services: 6
 
-# Theme settings
-minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
 
-# Site Author
-author:
-  name: "MVP Software Solutions"
-  bio: "Dubai-based software consultancy"
-  location: "Dubai, UAE"
-
-# Defaults
 defaults:
   - scope:
       path: ""
+      type: "services"
     values:
-      layout: single
-      author_profile: false
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
+
+# Contact info
+email: info@mvpss.dev
+phone: ""
+address: "Dubai, UAE"

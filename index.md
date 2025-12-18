@@ -1,27 +1,13 @@
 ---
-layout: splash
-permalink: /
-header:
-  overlay_color: "#1a1a2e"
-  overlay_filter: "0.5"
-  actions:
-    - label: "Contact Us"
-      url: "#contact"
-excerpt: "AI Integration & Custom Software Development"
+title: MVP Software Solutions
+layout: home
+description: AI Integration & Custom Software Development in Dubai. We build intelligent solutions that transform businesses.
+intro_image: "images/illustrations/pointing.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+show_call_box: true
 ---
 
-## What We Do
+# AI Integration & Custom Software Development
 
-We build custom software solutions for modern businesses, specializing in:
-
-- **AI Integration** - Implement intelligent automation and machine learning solutions
-- **Custom Development** - Tailored web and mobile applications
-- **Technical Consulting** - Architecture design and technology strategy
-
----
-
-## Contact {#contact}
-
-Get in touch to discuss your project.
-
-**Location:** Dubai, UAE
+We are a Dubai-based software consultancy that transforms businesses through technology. From AI-powered automation to custom web applications, we deliver solutions that drive real results.
