@@ -52,8 +52,10 @@ Our team combines deep technical expertise with a practical understanding of bus
 
 ## Location
 
-Based in Dubai, UAE, we serve clients locally and internationally. Our strategic location allows us to work effectively with businesses across different time zones.
+Based in Dubai Silicon Oasis, we serve clients locally and internationally. Our strategic location allows us to work effectively with businesses across different time zones.
 
 ---
 
-**MVP Software Solutions FZCO** | Dubai, UAE
+**MVP Software Solutions FZCO**
+Building A1, Dubai Digital Park, Dubai Silicon Oasis
+Dubai, United Arab Emirates

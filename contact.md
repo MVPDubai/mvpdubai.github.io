@@ -20,6 +20,8 @@ Ready to start your project? Have questions about our services? We'd love to hea
 ---
 
 **MVP Software Solutions FZCO**
-Dubai, UAE
+Building A1, Dubai Digital Park
+Dubai Silicon Oasis
+Dubai, United Arab Emirates
 Phone: +971 (0) 585359370
 Email: info@mvpss.dev
