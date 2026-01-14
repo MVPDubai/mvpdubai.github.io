@@ -1,7 +1,7 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "description": "Schedule a free 30-minute call to discuss your project requirements.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Expert Developers",
+    "description": "Our team has deep expertise in AI, web, and cloud technologies.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Modern Technology",
+    "description": "We use the latest frameworks and best practices for scalable solutions.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

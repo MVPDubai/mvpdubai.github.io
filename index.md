@@ -1,5 +1,5 @@
 ---
-title: MVP Software Solutions
+title: MVP Software Solutions FZCO
 layout: home
 description: AI Integration & Custom Software Development in Dubai. We build intelligent solutions that transform businesses.
 intro_image: "images/illustrations/pointing.svg"

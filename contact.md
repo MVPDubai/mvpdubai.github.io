@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: contact
-description: Get in touch with MVP Software Solutions
+description: Get in touch with MVP Software Solutions FZCO
 ---
 
 Ready to start your project? Have questions about our services? We'd love to hear from you.
@@ -16,3 +16,10 @@ Ready to start your project? Have questions about our services? We'd love to hea
 | --- | --- |
 | Sunday - Thursday | 9:00 AM - 6:00 PM (GST) |
 | Friday - Saturday | Closed |
+
+---
+
+**MVP Software Solutions FZCO**
+Dubai, UAE
+Phone: +971 (0) 585359370
+Email: info@mvpss.dev

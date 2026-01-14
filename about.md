@@ -1,11 +1,11 @@
 ---
 title: About
 layout: page
-description: About MVP Software Solutions
+description: About MVP Software Solutions FZCO
 bodyClass: page-about
 ---
 
-MVP Software Solutions is a Dubai-based software consultancy specializing in AI integration and custom software development. We help businesses leverage technology to solve complex problems and drive growth.
+**MVP Software Solutions FZCO** is a Dubai-based software consultancy specializing in AI integration and custom software development. We help businesses leverage technology to solve complex problems and drive growth.
 
 ## Who We Are
 
@@ -53,3 +53,7 @@ Our team combines deep technical expertise with a practical understanding of bus
 ## Location
 
 Based in Dubai, UAE, we serve clients locally and internationally. Our strategic location allows us to work effectively with businesses across different time zones.
+
+---
+
+**MVP Software Solutions FZCO** | Dubai, UAE

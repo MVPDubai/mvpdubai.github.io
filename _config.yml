@@ -1,7 +1,7 @@
 baseurl: ''
 url: 'https://mvpss.dev'
 permalink: pretty
-title: 'MVP Software Solutions'
+title: 'MVP Software Solutions FZCO'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -53,5 +53,5 @@ exclude:
 
 # Contact info
 email: info@mvpss.dev
-phone: ""
+phone: "+971 (0) 585359370"
 address: "Dubai, UAE"
